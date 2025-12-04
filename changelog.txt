@@ -8,6 +8,8 @@
 * Arayuz Iyilestirmesi: Tam ekran modu ve pencere boyutlandirma destegi getirildi.
 * Performans: Baglanti kopma sorunlari giderildi ve Skor tablosu duzeltildi.
 
+-NurSultan
+
 >> ENGLISH
 --------------------------------------------------
 * Revamped Chat UI: Added Mentions (@), Window Shake Alert, and Context Menu.
@@ -15,3 +17,5 @@
 * Remember Me: Auto-login functionality added.
 * UI Improvements: Full-screen support and responsive design enabled.
 * Performance: Fixed connection drops and Leaderboard issues.
+
+-NurSultan
