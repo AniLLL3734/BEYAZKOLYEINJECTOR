@@ -1,1 +1,19 @@
-Sa
+[v2.0 UPDATE NOTES / GÜNCELLEME NOTLARI]
+
+🇹🇷 TÜRKÇE
+--------------------------------------------------
+• Yenilenen Sohbet Arayüzü: Etiketleme (@), Pencere Titretme ve Sağ Tık menüsü eklendi.
+• Dil Desteği: Sistem diline göre Otomatik Türkçe/İngilizce açılış.
+• Beni Hatırla: Her girişte şifre yazma derdi bitti.
+• Arayüz İyileştirmesi: Tam ekran modu ve pencere boyutlandırma desteği getirildi.
+• Performans: Bağlantı kopma sorunları giderildi ve Skor tablosu düzeltildi.
+
+-NurSultan
+
+🇺🇸 ENGLISH
+--------------------------------------------------
+• Revamped Chat UI: Added Mentions (@), Window Shake Alert, and Context Menu.
+• Multi-Language: Automatic TR/EN support based on system language.
+• Remember Me: Auto-login functionality added.
+• UI Improvements: Full-screen support and responsive design enabled.
+• Performance: Fixed connection drops and Leaderboard issues.
