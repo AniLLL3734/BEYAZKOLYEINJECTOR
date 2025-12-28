@@ -1,1 +1,22 @@
 
+[ v2.0 - GHOST PROTOCOL UPDATE ]
+--------------------------------------------------
+[+] BEYAZKOLYE VIP SECURITY UPDATE
+
+[+] WARGODS DEFENDER (YENI!)
+- Artik WarGods taramalarindan korkmaniza gerek yok.
+- "PANIC BUTTON" eklendi! Tek tusla tum gecmisinizi silin.
+- UserAssist, Prefetch, USN Journal ve Registry temizligi.
+- Bilgisayariniz aninda "tertemiz" hale gelir.
+
+[+] MEMORY EXECUTION (YENI!)
+- Antivirusler diskte dosya bulamaz.
+
+[+] KAMELEON MODU
+- Loader her acildiginda farkli bir isimle gizlenir.
+- (Orn: Calculator, Spotify, System Update...)
+
+[+] Performans iyilestirmeleri yapildi.
+[+] Giris hatalari giderildi.
+
+IYI OYUNLAR! - BeyazKolye Team
