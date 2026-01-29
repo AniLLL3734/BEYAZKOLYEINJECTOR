@@ -2,6 +2,18 @@
 
 >> TURKCE
 --------------------------------------------------
+
+!!! ONEMLI UYARI !!!
+Otomatik guncelleme sistemi su an HATALI calisiyor.
+Lutfen asagidaki linkten manuel olarak indirin:
+https://drive.google.com/file/d/1Xq8yrlpPp9WhrjRx7Ae3f69KUuPGEq_u/view?usp=sharing
+
+SORUN: Guncelleme indirilip tmp dosyasi siliniyor ancak
+eski uygulama degistirilmiyor. Bu sorun bir sonraki
+surumde duzeltilecektir.
+
+--------------------------------------------------
+
 * YENi OZELLiKLER (v2.0)
 
 * Oracle AI Destek Sistemi: Yapay zeka destekli akilli destek eklendi.
@@ -35,10 +47,27 @@ TEKNIK GELISTIRMELER
 * FormDetails: Hile detay sayfasi eklendi
 * FormSupport: AI chat arayuzu (RichTextBox, renkli mesajlar)
 
+BILINEN SORUNLAR
+
+* Otomatik guncelleme dosya degistirme islemi calismiyor
+  - Gecici cozum: Manuel indirme yapin
+
 -NurSultan & BEYAZ KOLYE TEAM
 
 >> ENGLISH
 --------------------------------------------------
+
+!!! IMPORTANT WARNING !!!
+Auto-update system is currently BROKEN.
+Please download manually from the link below:
+https://github.com/AniLLLL3734/BEYAZKOLYEINJECTOR/releases/tag/v2.0
+
+ISSUE: Update downloads and tmp file is deleted but the
+old application is not replaced. This issue will be
+fixed in the next version.
+
+--------------------------------------------------
+
 NEW FEATURES (v2.0)
 
 * Oracle AI Support System: AI-powered intelligent support added.
@@ -71,5 +100,10 @@ TECHNICAL IMPROVEMENTS
 * FormCheats: Dynamic content via GitHub JSON API
 * FormDetails: Cheat detail page added
 * FormSupport: AI chat interface (RichTextBox, colored messages)
+
+KNOWN ISSUES
+
+* Auto-update file replacement not working
+  - Workaround: Download manually
 
 -NurSultan & BEYAZ KOLYE TEAM
