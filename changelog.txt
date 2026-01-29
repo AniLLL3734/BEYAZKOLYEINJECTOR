@@ -2,20 +2,74 @@
 
 >> TURKCE
 --------------------------------------------------
-* Yenilenen Sohbet Arayuzu: Etiketleme (@), Pencere Titretme ve Sag Tik menusu eklendi.
+* YENi OZELLiKLER (v2.0)
+
+* Oracle AI Destek Sistemi: Yapay zeka destekli akilli destek eklendi.
+  - Gemini AI entegrasyonu ile aninda sorun cozumu
+  - Hata mesajlarindan direkt "Oracle'a Sor" butonu ile yardim
+  - Enjeksiyon, indirme, oyun ici sorunlar icin hazir cozum veritabani
+  - Kahinimsi, gizemli bir karakter: "Dijital Savasci" sana yol gosterir
+
+* INSERT Tusu Simulasyonu: Klavyesinde INSERT calismayan kullanicilar icin.
+  - Ayarlardan alternatif bir tus belirleyebilirsin (F5, F6, HOME vb.)
+  - Sadece oyun penceresi aktifken calisir (CS 1.6, Half-Life)
+  - Global keyboard hook ile sorunsuz tus esleme
+
+* Hile Katalogu: Artik tek hile degil, birden fazla hile destegi!
+  - GitHub'dan dinamik hile listesi cekme
+  - Her hile icin gorsel kart tasarimi (resim, aciklama, durum)
+  - "Incele ve Yukle" butonu ile detayli hile sayfasi
+  - FormCheats ile profesyonel hile magazasi arayuzu
+
+* Yenilenen Sohbet Arayuzu: Etiketleme (@), Pencere Titretme ve Sag Tik menusu.
 * Dil Destegi: Sistem diline gore Otomatik Turkce/Ingilizce acilis.
 * Beni Hatirla: Her giriste sifre yazma derdi bitti.
-* Arayuz Iyilestirmesi: Tam ekran modu ve pencere boyutlandirma destegi getirildi.
+* Arayuz Iyilestirmesi: Tam ekran modu ve pencere boyutlandirma destegi.
 * Performans: Baglanti kopma sorunlari giderildi ve Skor tablosu duzeltildi.
 
--NurSultan
+TEKNIK GELISTIRMELER
+
+* ErrorHelper: Tum hatalar Oracle ile entegre (akilli hata dialogu)
+* KeySimulator: Windows API ile global keyboard hook
+* FormCheats: GitHub JSON API ile dinamik icerik
+* FormDetails: Hile detay sayfasi eklendi
+* FormSupport: AI chat arayuzu (RichTextBox, renkli mesajlar)
+
+-NurSultan & BEYAZ KOLYE TEAM
 
 >> ENGLISH
 --------------------------------------------------
+NEW FEATURES (v2.0)
+
+* Oracle AI Support System: AI-powered intelligent support added.
+  - Instant problem solving with Gemini AI integration
+  - "Ask Oracle" button directly from error messages
+  - Ready-made solution database for injection, download, in-game issues
+  - Mystic oracle character: "Digital Warrior" guides you
+
+* INSERT Key Simulation: For users whose INSERT key doesn't work.
+  - Set an alternative key from settings (F5, F6, HOME, etc.)
+  - Works only when game window is active (CS 1.6, Half-Life)
+  - Seamless key mapping with global keyboard hook
+
+* Cheat Catalog: Not just one cheat anymore, multi-cheat support!
+  - Dynamic cheat list fetching from GitHub
+  - Visual card design for each cheat (image, description, status)
+  - "Inspect & Load" button for detailed cheat page
+  - Professional cheat store interface with FormCheats
+
 * Revamped Chat UI: Added Mentions (@), Window Shake Alert, and Context Menu.
 * Multi-Language: Automatic TR/EN support based on system language.
 * Remember Me: Auto-login functionality added.
 * UI Improvements: Full-screen support and responsive design enabled.
 * Performance: Fixed connection drops and Leaderboard issues.
 
--NurSultan
+TECHNICAL IMPROVEMENTS
+
+* ErrorHelper: All errors integrated with Oracle (smart error dialog)
+* KeySimulator: Global keyboard hook with Windows API
+* FormCheats: Dynamic content via GitHub JSON API
+* FormDetails: Cheat detail page added
+* FormSupport: AI chat interface (RichTextBox, colored messages)
+
+-NurSultan & BEYAZ KOLYE TEAM
