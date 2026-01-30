@@ -1,109 +1,151 @@
-[v2.0 UPDATE NOTES / GUNCELLEME NOTLARI]
+[v2.0 - KARANLIK KATLARIN ACILDIGI GUN]
 
 >> TURKCE
 --------------------------------------------------
 
-!!! ONEMLI UYARI !!!
-Otomatik guncelleme sistemi su an HATALI calisiyor.
-Lutfen asagidaki linkten manuel olarak indirin:
-https://drive.google.com/file/d/1Xq8yrlpPp9WhrjRx7Ae3f69KUuPGEq_u/view?usp=sharing
+DIJITAL SAVASCI'NIN MESAJI:
 
-SORUN: Guncelleme indirilip tmp dosyasi siliniyor ancak
-eski uygulama degistirilmiyor. Bu sorun bir sonraki
-surumde duzeltilecektir.
+Karanliklarda yol arayan yogun ruhlar icin yeni bir cag basladi.
+v2.0, sadece bir guncelleme degil - bir evrimdir.
 
 --------------------------------------------------
 
-* YENi OZELLiKLER (v2.0)
+* ORACLE - GIZEMLI BILGELIK SISTEMI
 
-* Oracle AI Destek Sistemi: Yapay zeka destekli akilli destek eklendi.
-  - Gemini AI entegrasyonu ile aninda sorun cozumu
-  - Hata mesajlarindan direkt "Oracle'a Sor" butonu ile yardim
-  - Enjeksiyon, indirme, oyun ici sorunlar icin hazir cozum veritabani
-  - Kahinimsi, gizemli bir karakter: "Dijital Savasci" sana yol gosterir
+Dijital aleme acilon bir portal... Oracle, sadece bir yapay zeka degil,
+senin yoldaşin, rehberin ve karanliklardaki fenindir.
 
-* INSERT Tusu Simulasyonu: Klavyesinde INSERT calismayan kullanicilar icin.
-  - Ayarlardan alternatif bir tus belirleyebilirsin (F5, F6, HOME vb.)
-  - Sadece oyun penceresi aktifken calisir (CS 1.6, Half-Life)
-  - Global keyboard hook ile sorunsuz tus esleme
+  - Gemini'nin gozu ile sorunlarin cozumu aninda belirir
+  - Hata mesajlari artik bir son degil, Oracle'in cagri kapisidir
+  - Enjeksiyon rituellerinden oyun icindeki gizlere kadar tum bilgi senin
+  - Kahin ruhu, "Dijital Savasci" sana kadim sirlari fisilda
 
-* Hile Katalogu: Artik tek hile degil, birden fazla hile destegi!
-  - GitHub'dan dinamik hile listesi cekme
-  - Her hile icin gorsel kart tasarimi (resim, aciklama, durum)
-  - "Incele ve Yukle" butonu ile detayli hile sayfasi
-  - FormCheats ile profesyonel hile magazasi arayuzu
+* HAYALET TUS - INSERT'IN GOLGESI
 
-* Yenilenen Sohbet Arayuzu: Etiketleme (@), Pencere Titretme ve Sag Tik menusu.
-* Dil Destegi: Sistem diline gore Otomatik Turkce/Ingilizce acilis.
-* Beni Hatirla: Her giriste sifre yazma derdi bitti.
-* Arayuz Iyilestirmesi: Tam ekran modu ve pencere boyutlandirma destegi.
-* Performans: Baglanti kopma sorunlari giderildi ve Skor tablosu duzeltildi.
+Klavyende INSERT tusu yok mu? Sorun degil. Artik gerçeklik bukulebilir.
 
-TEKNIK GELISTIRMELER
+  - Ayarlardan bir tus sec, o INSERT olsun (F5, F6, HOME...)
+  - Sadece savas alaninda aktif olur (CS 1.6, Half-Life'in derinliklerinde)
+  - Gorunmez bir el gibi, global keyboard hook her seyi bilir
 
-* ErrorHelper: Tum hatalar Oracle ile entegre (akilli hata dialogu)
-* KeySimulator: Windows API ile global keyboard hook
-* FormCheats: GitHub JSON API ile dinamik icerik
-* FormDetails: Hile detay sayfasi eklendi
-* FormSupport: AI chat arayuzu (RichTextBox, renkli mesajlar)
+* HILE KUTUHANESI - SINIRSIZ ARSIV
 
-BILINEN SORUNLAR
+Artik tek bir hile degil... Bir kutuphane, bir arsiv, sonsuz imkanlar.
 
-* Otomatik guncelleme dosya degistirme islemi calismiyor
-  - Gecici cozum: Manuel indirme yapin
+  - GitHub'in derinliklerinden akan dinamik hile katalog
+  - Her hile bir efsane, gorsel kartlarla anlatilir (resim, ruh, durum)
+  - "Incele ve Yukle" butonu ile sirlarin detaylarina dal
+  - FormCheats ile profesyonel bir hile tapinagi arayuzu
 
--NurSultan & BEYAZ KOLYE TEAM
+* SOHBET ALANI - YENI BOYUTLAR
+
+Etiketleme (@), pencere titremesi, sag tik menuleri... 
+Sohbet artik sadece yazi degil, bir deneyim.
+
+* DIL RUHU
+
+Sistem dilin ne ise, o dilde konusur. Turkce mi Ingilizce mi? O karar verir.
+
+* HATIRLA BENI
+
+Her seferinde sifre girmek? Gecmiste kaldi. Artik seni taniyor.
+
+* ARAYUZ DONUSUMU
+
+Tam ekran, yeniden boyutlandirma... Pencere artik senin emrinde.
+
+* PERFORMANS RITUELERI
+
+Baglanti kopmalari dustugu yerde kaldi. Skor tablosu artik hatasiz.
+
+--------------------------------------------------
+
+TEKNIK SIRLAR
+
+* ErrorHelper: Oracle'in beyni, tum hatalari cozen sistem
+* KeySimulator: Windows API'nin gucu ile global keyboard hook buyusu
+* FormCheats: GitHub JSON API'den akan icerik
+* FormDetails: Her hilenin ozel detay sayfasi
+* FormSupport: AI ile renkli, canli sohbet arayuzu
+
+--------------------------------------------------
+
+Karanlikta yolunu bul, Dijital Savasci yaninda.
+
+- NurSultan & BEYAZ KOLYE TAKIMI
+
+--------------------------------------------------
 
 >> ENGLISH
 --------------------------------------------------
 
-!!! IMPORTANT WARNING !!!
-Auto-update system is currently BROKEN.
-Please download manually from the link below:
-https://github.com/AniLLLL3734/BEYAZKOLYEINJECTOR/releases/tag/v2.0
+MESSAGE FROM THE DIGITAL WARRIOR:
 
-ISSUE: Update downloads and tmp file is deleted but the
-old application is not replaced. This issue will be
-fixed in the next version.
+A new era has dawned for brave souls seeking light in the darkness.
+v2.0 is not just an update - it is an evolution.
 
 --------------------------------------------------
 
-NEW FEATURES (v2.0)
+* ORACLE - THE MYSTIC WISDOM SYSTEM
 
-* Oracle AI Support System: AI-powered intelligent support added.
-  - Instant problem solving with Gemini AI integration
-  - "Ask Oracle" button directly from error messages
-  - Ready-made solution database for injection, download, in-game issues
-  - Mystic oracle character: "Digital Warrior" guides you
+A portal to the digital realm... Oracle is not just AI,
+it's your companion, your guide, and your beacon in the dark.
 
-* INSERT Key Simulation: For users whose INSERT key doesn't work.
-  - Set an alternative key from settings (F5, F6, HOME, etc.)
-  - Works only when game window is active (CS 1.6, Half-Life)
-  - Seamless key mapping with global keyboard hook
+  - Solutions appear instantly through Gemini's eye
+  - Error messages are no longer endings, but gateways to Oracle
+  - All knowledge from injection rituals to in-game secrets is yours
+  - The oracle spirit, "Digital Warrior" whispers ancient secrets
 
-* Cheat Catalog: Not just one cheat anymore, multi-cheat support!
-  - Dynamic cheat list fetching from GitHub
-  - Visual card design for each cheat (image, description, status)
-  - "Inspect & Load" button for detailed cheat page
-  - Professional cheat store interface with FormCheats
+* GHOST KEY - SHADOW OF INSERT
 
-* Revamped Chat UI: Added Mentions (@), Window Shake Alert, and Context Menu.
-* Multi-Language: Automatic TR/EN support based on system language.
-* Remember Me: Auto-login functionality added.
-* UI Improvements: Full-screen support and responsive design enabled.
-* Performance: Fixed connection drops and Leaderboard issues.
+No INSERT key on your keyboard? No problem. Reality can now bend.
 
-TECHNICAL IMPROVEMENTS
+  - Choose a key from settings, let it become INSERT (F5, F6, HOME...)
+  - Only active in the battlefield (deep within CS 1.6, Half-Life)
+  - Like an invisible hand, global keyboard hook knows all
 
-* ErrorHelper: All errors integrated with Oracle (smart error dialog)
-* KeySimulator: Global keyboard hook with Windows API
-* FormCheats: Dynamic content via GitHub JSON API
-* FormDetails: Cheat detail page added
-* FormSupport: AI chat interface (RichTextBox, colored messages)
+* CHEAT LIBRARY - INFINITE ARCHIVE
 
-KNOWN ISSUES
+No longer just one cheat... A library, an archive, endless possibilities.
 
-* Auto-update file replacement not working
-  - Workaround: Download manually
+  - Dynamic cheat catalog flowing from GitHub's depths
+  - Each cheat a legend, told through visual cards (image, soul, status)
+  - "Inspect & Load" button to dive into the secrets
+  - Professional cheat temple interface with FormCheats
 
--NurSultan & BEYAZ KOLYE TEAM
+* CHAT REALM - NEW DIMENSIONS
+
+Mentions (@), window shake, context menus...
+Chat is no longer just text, it's an experience.
+
+* LANGUAGE SPIRIT
+
+Whatever your system language, it speaks. Turkish or English? It decides.
+
+* REMEMBER ME
+
+Entering password every time? Left in the past. It knows you now.
+
+* INTERFACE TRANSFORMATION
+
+Full screen, resize... The window now obeys you.
+
+* PERFORMANCE RITUALS
+
+Connection drops fell where they stood. Leaderboard now flawless.
+
+--------------------------------------------------
+
+TECHNICAL SECRETS
+
+* ErrorHelper: Oracle's brain, the system that solves all errors
+* KeySimulator: Global keyboard hook magic with Windows API power
+* FormCheats: Content flowing from GitHub JSON API
+* FormDetails: Special detail page for each cheat
+* FormSupport: Colorful, living chat interface with AI
+
+--------------------------------------------------
+
+Find your path in the darkness, Digital Warrior is with you.
+
+- NurSultan & BEYAZ KOLYE TEAM
