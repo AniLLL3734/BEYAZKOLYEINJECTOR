@@ -3,11 +3,7 @@
 >> TURKCE
 --------------------------------------------------
 
-DIJITAL SAVASCI'NIN MESAJI:
-
-Karanliklarda yol arayan yogun ruhlar icin yeni bir cag basladi.
-v2.0, sadece bir guncelleme degil - bir evrimdir.
-
+ENJEKTE ETME SORUNU DUZELTILDI
 --------------------------------------------------
 
 * ORACLE - GIZEMLI BILGELIK SISTEMI
